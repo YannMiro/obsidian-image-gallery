@@ -1,4 +1,5 @@
-![Obsidian Image Gallery](assets/obsidian-image-gallery-header.jpg)
+
+> ![Obsidian Image Gallery](assets/obsidian-image-gallery-header.jpg)
 
 # Obsidian Image Gallery
 Obsidian Image Gallery is a zero setup masonry image gallery for [Obsidian](https://obsidian.md/).
